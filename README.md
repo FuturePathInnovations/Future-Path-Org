@@ -38,9 +38,9 @@
 | Team          | Leads / Members |
 |---------------|-----------------|
 | **Frontend**  | ⭐ Nicolette (Lead), Larosa, Sibusiso, Tamnai |
-| **Backend**   | ⭐ Sibusiso (Lead), Katlego, Issah |
+| **Backend**   | ⭐ Sibusiso (Lead), Katlego |
 | **Deployment**| (To be confirmed) |
-| **Management**| Phomolo, Sibusiso, Nicolette, Katlego, Tamnai, Larosa, Issah |
+| **Management**| Phomolo, Sibusiso, Nicolette, Katlego, Tamnai |
 
 ---
 
