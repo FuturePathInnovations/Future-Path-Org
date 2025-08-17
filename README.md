@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="FuturePath AI" />
 </p>
 
-<h1 align="center">🌐 FuturePath</h1>
+<h1 align="center">🌐 FuturePath - Creating the new future</h1>
 
 <p align="center">
   <em>AI-powered learning ecosystem for every stage of growth – from early childhood to young adulthood</em>
